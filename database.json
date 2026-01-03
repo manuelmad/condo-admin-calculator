@@ -951,6 +951,278 @@
           "December": 0
         }
       }
+    },
+    {
+      "id": "1-C",
+      "owner": "Yesenia Berris",
+      "debts": {
+        "2024": {
+          "January": 5,
+          "February": 5,
+          "March": 5,
+          "April": 10,
+          "May": 10,
+          "June": 10,
+          "July": 10,
+          "August": 10,
+          "September": 10,
+          "October": 10,
+          "November": 10,
+          "December": 10
+        },
+        "2025": {
+          "January": 10,
+          "February": 10,
+          "March": 10,
+          "April": 10,
+          "May": 10,
+          "June": 10,
+          "July": 10,
+          "August": 10,
+          "September": 10,
+          "October": 10,
+          "November": 10,
+          "December": 10
+        },
+        "2026": {
+          "January": 10,
+          "February": 10,
+          "March": 10,
+          "April": 10,
+          "May": 10,
+          "June": 10,
+          "July": 10,
+          "August": 10,
+          "September": 10,
+          "October": 10,
+          "November": 10,
+          "December": 10
+        }
+      },
+      "payments": {
+        "2024": {
+          "January": 0,
+          "February": 0,
+          "March": 0,
+          "April": 0,
+          "May": 0,
+          "June": 0,
+          "July": 0,
+          "August": 0,
+          "September": 0,
+          "October": 0,
+          "November": 0,
+          "December": 0
+        },
+        "2025": {
+          "January": 0,
+          "February": 0,
+          "March": 0,
+          "April": 0,
+          "May": 0,
+          "June": 0,
+          "July": 0,
+          "August": 0,
+          "September": 0,
+          "October": 0,
+          "November": 0,
+          "December": 0
+        },
+        "2026": {
+          "January": 0,
+          "February": 0,
+          "March": 0,
+          "April": 0,
+          "May": 0,
+          "June": 0,
+          "July": 0,
+          "August": 0,
+          "September": 0,
+          "October": 0,
+          "November": 0,
+          "December": 0
+        }
+      },
+      "partials": {
+        "2024": {
+          "January": 0,
+          "February": 0,
+          "March": 0,
+          "April": 0,
+          "May": 0,
+          "June": 0,
+          "July": 0,
+          "August": 0,
+          "September": 0,
+          "October": 0,
+          "November": 0,
+          "December": 0
+        },
+        "2025": {
+          "January": 0,
+          "February": 0,
+          "March": 0,
+          "April": 0,
+          "May": 0,
+          "June": 0,
+          "July": 0,
+          "August": 0,
+          "September": 0,
+          "October": 0,
+          "November": 0,
+          "December": 0
+        },
+        "2026": {
+          "January": 0,
+          "February": 0,
+          "March": 0,
+          "April": 0,
+          "May": 0,
+          "June": 0,
+          "July": 0,
+          "August": 0,
+          "September": 0,
+          "October": 0,
+          "November": 0,
+          "December": 0
+        }
+      }
+    },
+     {
+      "id": "1-D",
+      "owner": "Luzmarina Paz",
+      "debts": {
+        "2024": {
+          "January": 5,
+          "February": 5,
+          "March": 5,
+          "April": 10,
+          "May": 10,
+          "June": 10,
+          "July": 10,
+          "August": 10,
+          "September": 10,
+          "October": 10,
+          "November": 10,
+          "December": 10
+        },
+        "2025": {
+          "January": 10,
+          "February": 10,
+          "March": 10,
+          "April": 10,
+          "May": 10,
+          "June": 10,
+          "July": 10,
+          "August": 10,
+          "September": 10,
+          "October": 10,
+          "November": 10,
+          "December": 10
+        },
+        "2026": {
+          "January": 10,
+          "February": 10,
+          "March": 10,
+          "April": 10,
+          "May": 10,
+          "June": 10,
+          "July": 10,
+          "August": 10,
+          "September": 10,
+          "October": 10,
+          "November": 10,
+          "December": 10
+        }
+      },
+      "payments": {
+        "2024": {
+          "January": 5,
+          "February": 5,
+          "March": 5,
+          "April": 10,
+          "May": 10,
+          "June": 10,
+          "July": 10,
+          "August": 10,
+          "September": 10,
+          "October": 10,
+          "November": 10,
+          "December": 10
+        },
+        "2025": {
+          "January": 10,
+          "February": 10,
+          "March": 10,
+          "April": 10,
+          "May": 10,
+          "June": 10,
+          "July": 10,
+          "August": 0,
+          "September": 0,
+          "October": 0,
+          "November": 0,
+          "December": 0
+        },
+        "2026": {
+          "January": 0,
+          "February": 0,
+          "March": 0,
+          "April": 0,
+          "May": 0,
+          "June": 0,
+          "July": 0,
+          "August": 0,
+          "September": 0,
+          "October": 0,
+          "November": 0,
+          "December": 0
+        }
+      },
+      "partials": {
+        "2024": {
+          "January": 0,
+          "February": 0,
+          "March": 0,
+          "April": 0,
+          "May": 0,
+          "June": 0,
+          "July": 0,
+          "August": 0,
+          "September": 0,
+          "October": 0,
+          "November": 0,
+          "December": 0
+        },
+        "2025": {
+          "January": 0,
+          "February": 0,
+          "March": 0,
+          "April": 0,
+          "May": 0,
+          "June": 0,
+          "July": 0,
+          "August": 0,
+          "September": 0,
+          "October": 0,
+          "November": 0,
+          "December": 0
+        },
+        "2026": {
+          "January": 0,
+          "February": 0,
+          "March": 0,
+          "April": 0,
+          "May": 0,
+          "June": 0,
+          "July": 0,
+          "August": 0,
+          "September": 0,
+          "October": 0,
+          "November": 0,
+          "December": 0
+        }
+      }
     }
   ]
 }
