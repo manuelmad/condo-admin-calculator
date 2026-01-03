@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AdminCondo - Gestión de Deudas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Administración de Condominio</h1>
+            <div class="config-panel">
+                <label for="currentMonth">Mes en curso:</label>
+                <input type="month" id="currentMonth" value="2025-01">
+                <div class="select-div">
+                    <label for="ownerFilter">Filtrar por:</label>
+                   <p id="select_container"></p>
+                </div>
+                <p class="info-text">Cuota mensual: <strong>$10 USD</strong> | Mora: <strong>10%</strong></p>
+            </div>
+        </header>
+
+        <main>
+            <table id="condoTable">
+                <thead>
+                    <tr>
+                        <th>Apto.</th>
+                        <th>Propietario</th>
+                        <th>Meses Pendientes</th>
+                        <th>Mora Acumulada</th>
+                        <th>Total a Pagar</th>
+                        <th>Acción</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                    </tbody>
+            </table>
+        </main>
+
+        <div id="paymentModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h3>Registrar Pago - Apto <span id="modalAptoNum"></span></h3>
+                <form id="paymentForm">
+                    <label>Fecha de Pago:</label>
+                    <input type="date" id="payDate" required>
+                    <label>Monto a pagar ($):</label>
+                    <input type="number" id="payAmount" min="1" step="0.01" required>
+                    <button type="submit" class="btn-confirm">Procesar Pago</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
